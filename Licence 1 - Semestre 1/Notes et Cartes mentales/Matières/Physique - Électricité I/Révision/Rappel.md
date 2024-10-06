@@ -41,3 +41,7 @@ Il se place toujours en dérivation dans un circuit électrique.
 | Réseau EDF domestique              | 220 V              |
 | Alternateurs alimentant le réseau  | 20 kV              |
 | Transport du courant sous tensions | 400 kV             |
+
+### Conductivité d'un réseau 
+
+La conductivité d'un réseau est noté **γ**

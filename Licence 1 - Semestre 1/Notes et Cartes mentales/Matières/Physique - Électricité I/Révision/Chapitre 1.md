@@ -189,3 +189,22 @@ $U_{AB}$ peut être positive ou négative : valeur algébrique.
 ```ad-important
 $U_{AD}=U_{AB}+U_{BC}+U_{CD}$
 ```
+
+
+## RESISTANCE
+
+### Définition
+Résistance électrique : Conducteur qui présente une certaine opposition au passage du courant électrique, opposition qui est appelée résistance électrique
+
+### loi d'Ohm
+
+La conductivité du matériau est notée [[Rappel#Conductivité d'un réseau|γ]] et caractérise l’aspect plus ou moins bon conducteur de ce matériau : **[[Rappel#Conductivité d'un réseau|γ]] => $Ω^{-1}.m^{-1}$**
+
+```ad-important
+### Loi d'Ohm
+$U=R.I$
+```
+
+![[Pasted image 20241006151858.png]]
+
+![[Pasted image 20241006151839.png]]
