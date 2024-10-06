@@ -1,5 +1,0 @@
-[[Sommaires CM L1 S1|Sommaires CM L1 S1]]
-[[Sommaires travaux dirigés L1 S1|Sommaires travaux dirigés L1 S1]]
-[[Sommaires travaux pratique L1 S1]]
-[[Sommaires notes L1 S1]]
-[[Sommaire maths]]
