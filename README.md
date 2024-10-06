@@ -21,7 +21,7 @@ Pour toute erreur merci de me contacter via Discord : ``leo.lb``
 Toutes contribution est la bienvenue
 
 ## Installation PC
-Installer : https://obsidian.md
+Installer : https://obsidian.md  
 Installer : Git
 
 ```git
