@@ -25,14 +25,14 @@ Toutes contribution est la bienvenue
 ### Etape 1
 Installer : https://obsidian.md  
 
-![[Capture d'écran 2024-10-06 124050.png]]
+![](attachements/Capture%20d'écran%202024-10-06%20124050.png)
 ### Etape 2
 Installer Git : https://git-scm.com/downloads
-![[Capture d'écran 2024-10-06 124253.png]]
+![](attachements/Capture%20d'écran%202024-10-06%20124253.png)  
 ### Etape 3
 Ce rendre sur le bon repo github : https://github.com/leo-lb29/obsidian_ubs_revision
 
-![[Capture d'écran 2024-10-06 124209.png]]
+![](attachements/Capture%20d'écran%202024-10-06%20124209.png)  
 ### Etape 4
 Copier la commande
 
@@ -40,26 +40,26 @@ Copier la commande
 git clone https://github.com/leo-lb29/obsidian_ubs_revision.git
 ```
 
-![[Capture d'écran 2024-10-06 124221.png]]
+![](attachements/Capture%20d'écran%202024-10-06%20124221.png)
 
 Ce placer dans le bon dossier ou vous voulez coller le repo github
 
 Entrer CMD dans la barre de lien de l'explorateur > Faire Entrer
 
-![[Pasted image 20241006125331.png]]
+![](Pasted image 20241006125331.png)
 
 Coller la commande > Faire Entrer
 
-![[Capture d'écran 2024-10-06 124638.png]]
+![](attachements/Capture%20d'écran%202024-10-06%20124638.png)
 ### Etape 5
 
 Ouvrir Obsidian > Mettre en Français > Ouvrir le dossier ou ce trouve le .obsidian
 
-![[Capture d'écran 2024-10-06 124711.png]]
+![](attachements/Capture%20d'écran%202024-10-06%20124711.png)
 
 Cliquer sur **faire confiance à l'auteur de ce coffre**
 
-![[Capture d'écran 2024-10-06 124740.png]]
+![](attachements/Capture%20d'écran%202024-10-06%20124740.png)
 
 ## Mettre à jour sur PC
 
@@ -70,18 +70,18 @@ Puis marqué ``Git Pull``
 
 et cliquer sur la commande
 
-![[Pasted image 20241006125912.png]]
+![](Pasted image 20241006125912.png)
 
 
 ### Solution 2
 
 Cliquer sur le logo Merge de Git dans la barre latérale
 
-![[Pasted image 20241006125616.png]]
+![](Pasted image 20241006125616.png)
 
 Cliquer sur le bouton **Pull** (Flèche vers le bas)
 
-![[Pasted image 20241006125656.png]]
+![](Pasted image 20241006125656.png)
 
 ### Solution 3
 
@@ -117,3 +117,4 @@ https://github.com/leo-lb29/obsidian_ubs_revision.git
 
 Glisser vers le haut
 Rechercher ``Git: Pull`` Cliquer et attendre
+

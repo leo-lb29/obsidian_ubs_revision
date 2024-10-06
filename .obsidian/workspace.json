@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0e5cf9463d2eec9",
+        "id": "d0c707dcfa9b1dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "c5f95646c2b68969",
+            "id": "70b5d04d7951cd64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,52 +164,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c5f95646c2b68969",
+  "active": "70b5d04d7951cd64",
   "lastOpenFiles": [
     "README.md",
-    "attachements/Screenshot_2024-10-06-13-02-10-477_md.obsidian 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-02-16-703_md.obsidian 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-02-38-547_com.google.android.documentsui 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-02-43-325_com.google.android.documentsui 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-02-55-787_md.obsidian 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-02-59-817_md.obsidian 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-03-09-919_md.obsidian 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-03-21-757_md.obsidian 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-03-35-143_md.obsidian 1.jpg",
-    "attachements/Screenshot_2024-10-06-13-03-47-687_md.obsidian 1.jpg",
-    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Rappel.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 4.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 3.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 2.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Sciences du numérique/Sommaires Sci du Num.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Sommaires physique elec.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision",
-    "exo1.mp4.md",
-    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Sommaires Sci du Num.md",
-    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Cours TD 01-10-24/01-10-24.md",
-    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
-    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/03-10-24.md",
-    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/cours TD 23-09-24/main.py",
-    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Cours TD 01-10-24/main.py",
-    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/cours TD 23-09-24",
-    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Cours TD 01-10-24",
-    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique",
-    "Licence 1 - Semestre 1/TP/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
-    "Licence 1 - Semestre 1/TP/Matières/Programmation fonctionnelle",
-    "Licence 1 - Semestre 1/TP/Matières/Physique - Électricité I/Sommaires physique elec.md",
-    "Licence 1 - Semestre 1/TP/Matières/Physique - Électricité I",
-    "Licence 1 - Semestre 1/TP/Matières/Concepts et outils mathématiques/Sommaires Comcept et outils maths.md",
-    "Licence 1 - Semestre 1/TP/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
-    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/TP - 19-09-24.md",
-    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/03-10-24.ml",
-    "Licence 1 - Semestre 1/TP/Matières/Concepts et outils mathématiques",
-    "Licence 1 - Semestre 1/TP/Sommaires travaux pratique L1 S1.md",
-    "news.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Concepts et outils mathématiques/Sommaires Comcept et outils maths.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Programmation fonctionnelle",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Sciences du numérique",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Concepts et outils mathématiques",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Anglais – Activités d’ouverture",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Algorithmique et programmation impérative",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Sommaires notes L1 S1.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières",
     "Licence 1 - Semestre 1/Sommaire L1 S1.md",
-    "Licence 1 - Semestre 1/TD/Matières/Sciences du numérique/Sommaires Sci du Num.md",
-    "Licence 1 - Semestre 1/TD/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
-    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Sommaires physique elec.md",
-    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys-1113 - 06-09-24.md",
-    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys 20-09-24.md",
-    "Licence 1 - Semestre 1/TD/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md"
+    "Licence 1 - Semestre 1/Notes et Cartes mentales",
+    "Licence 1 - Semestre 1",
+    "attachements/Screenshot_2024-10-06-13-03-35-143_md.obsidian.jpg",
+    "attachements/Screenshot_2024-10-06-13-05-49-777_md.obsidian.jpg",
+    "attachements/Screenshot_2024-10-06-13-05-49-777_md.obsidian 1.jpg",
+    "attachements/Screenshot_2024-10-06-13-05-21-718_md.obsidian.jpg",
+    "attachements/Screenshot_2024-10-06-13-05-21-718_md.obsidian 1.jpg",
+    "attachements/Screenshot_2024-10-06-13-05-02-017_md.obsidian.jpg",
+    "attachements/Screenshot_2024-10-06-13-05-02-017_md.obsidian 1.jpg",
+    "attachements/Screenshot_2024-10-06-13-04-52-027_md.obsidian.jpg",
+    "attachements/Screenshot_2024-10-06-13-04-52-027_md.obsidian 1.jpg",
+    "attachements/Screenshot_2024-10-06-13-04-38-083_md.obsidian.jpg",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Rappel.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 4.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 2.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 3.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Sciences du numérique/Sommaires Sci du Num.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Sommaires physique elec.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Concepts et outils mathématiques/Sommaires Comcept et outils maths.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+    "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Sommaires notes L1 S1.md"
   ]
 }

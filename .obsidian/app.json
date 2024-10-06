@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "attachements",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute"
 }
