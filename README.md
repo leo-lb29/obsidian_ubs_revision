@@ -117,35 +117,3 @@ https://github.com/leo-lb29/obsidian_ubs_revision.git
 
 Glisser vers le haut
 Rechercher ``Git: Pull`` Cliquer et attendre
-
-![[Screenshot_2024-10-06-13-05-49-777_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-05-21-718_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-05-02-017_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-04-52-027_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-04-38-083_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-04-32-987_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-03-47-687_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-03-35-143_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-03-21-757_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-03-09-919_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-02-59-817_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-02-55-787_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-02-43-325_com.google.android.documentsui 1.jpg]]
-
-![[Screenshot_2024-10-06-13-02-38-547_com.google.android.documentsui 1.jpg]]
-
-![[Screenshot_2024-10-06-13-02-16-703_md.obsidian 1.jpg]]
-
-![[Screenshot_2024-10-06-13-02-10-477_md.obsidian 1.jpg]]
