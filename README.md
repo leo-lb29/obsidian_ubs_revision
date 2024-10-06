@@ -2,17 +2,17 @@
 
 Obsidian mis a disposition pour les révisions de
 
--> PHY 1113
+-> PHY 1113  
 -> MTH 1106
 
--> Autre à venir
+-> Autre à venir  
 
 
 ### Contribution
-- @leo-lb29
+- @leo-lb29  
 
 ### Credit
-MTH 1106 : Mr Banos
+MTH 1106 : Mr Banos  
 PHY 1113 : Mme Bébin
 
 ### Note
