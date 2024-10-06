@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "ae3670007aa82ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e122c20d907b5121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dc478515fdbda5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Licence 1 - Semestre 1/CM/Matières/Algorithmique et programmation impérative/CM - INF1113 - 09-09-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8259683751feaec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cf1e142aa57913dd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2cf52d63eeb784e7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "959b6dfe5ec4f292",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ba759f45d361edd9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "892dc5db9e7aded4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54c5449c9fef9296",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Licence 1 - Semestre 1/CM/Matières/Algorithmique et programmation impérative/CM - INF1113 - 09-09-2024.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "84ab0752275808fb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Licence 1 - Semestre 1/CM/Matières/Algorithmique et programmation impérative/CM - INF1113 - 09-09-2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f93a9788951cf490",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Licence 1 - Semestre 1/CM/Matières/Algorithmique et programmation impérative/CM - INF1113 - 09-09-2024.md"
+          }
+        }
+      },
+      {
+        "id": "83771f014f2c1a02",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cf1e142aa57913dd",
+  "lastOpenFiles": [
+    "Licence 1 - Semestre 1/CM/Matières/Algorithmique et programmation impérative/23-09-24.md",
+    "README.md",
+    "attachements/Pasted image 20240930142254.png",
+    "attachements/Pasted image 20240920151607.png",
+    "attachements/Pasted image 20240920151453.png",
+    "attachements/Pasted image 20240916082708.png",
+    "attachements/Pasted image 20240916081138.png",
+    "attachements/Pasted image 20240906174848.png",
+    "attachements/Pasted image 20240906164243.png",
+    "/attachements/Pasted image 20240930142254.png",
+    "/attachements/Pasted image 20240920151607.png",
+    "/attachements/Pasted image 20240920151453.png",
+    "attachements",
+    "/attachements",
+    "Licence 1 - Semestre 1/TD/Sommaires travaux dirigés L1 S1.md",
+    "Licence 1 - Semestre 1/TD/Matières/Sciences du numérique/Sommaires Sci du Num.md",
+    "Licence 1 - Semestre 1/TD/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
+    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Sommaires physique elec.md",
+    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys-1113 - 06-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys 20-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Sommaires Concept et outils maths.md",
+    "Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Maths 30-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Maths - TD - 23-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Math - EXO + Corrigé 16-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Math - EXO + Corrigé 14-09-2024.md",
+    "Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Math - 05-09-2024.md",
+    "Licence 1 - Semestre 1/TD/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
+    "Licence 1 - Semestre 1/TD/Matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+    "Licence 1 - Semestre 1/Sommaire L1 S1.md",
+    "/README.md",
+    "/Licence 1 - Semestre 1/TD/Sommaires travaux dirigés L1 S1.md",
+    "/Licence 1 - Semestre 1/TD/Matières/Sciences du numérique/Sommaires Sci du Num.md",
+    "/Licence 1 - Semestre 1/TD/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
+    "/Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Sommaires physique elec.md",
+    "/Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys-1113 - 06-09-24.md",
+    "/Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys 20-09-24.md",
+    "/Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Sommaires Concept et outils maths.md",
+    "/Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques/Maths 30-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Sciences du numérique",
+    "Licence 1 - Semestre 1/TD/Matières/Programmation fonctionnelle",
+    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I",
+    "Licence 1 - Semestre 1/TD/Matières/Concepts et outils mathématiques",
+    "Licence 1 - Semestre 1/TD/Matières/Anglais – Activités d’ouverture",
+    "Licence 1 - Semestre 1/TD/Matières/Algorithmique et programmation impérative",
+    "Licence 1 - Semestre 1/TD/Matières",
+    "Licence 1 - Semestre 1/TD"
+  ]
+}

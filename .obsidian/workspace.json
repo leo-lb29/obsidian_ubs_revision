@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "43deaecd2298fbf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1f2357c10560ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a8671a3383e7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "196f8003e118c62a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f25f6cee1c48a42b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd9297026c78bc2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acb404f2b2311a11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ee266efd5b2b064",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cc27a18b14d1d07",
+    "type": "split",
+    "children": [
+      {
+        "id": "d982a228a222844d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "511557eea9530926",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f74b8784d613a9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58f1c82f3752de17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c52c7f4c2fd1ef7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "99f423be6dd181d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d51723324041546",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "52a8671a3383e7b4",
+  "lastOpenFiles": [
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 1.md",
+    "attachements/Pasted image 20241006122456.png",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Rappel.md",
+    "attachements/Pasted image 20241006122151.png",
+    "attachements/Pasted image 20241006121655.png",
+    "attachements/Pasted image 20241006121546.png",
+    "attachements/Pasted image 20241006121355.png",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 4.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 3.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 2.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision",
+    "attachements/Pasted image 20241006113111.png",
+    "attachements/Pasted image 20241006113054.png",
+    "exo1.mp4.md",
+    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Sommaires Sci du Num.md",
+    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Cours TD 01-10-24/01-10-24.md",
+    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/03-10-24.md",
+    "README.md",
+    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/cours TD 23-09-24/main.py",
+    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Cours TD 01-10-24/main.py",
+    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/cours TD 23-09-24",
+    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique/Cours TD 01-10-24",
+    "Licence 1 - Semestre 1/TP/Matières/Sciences du numérique",
+    "Licence 1 - Semestre 1/TP/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
+    "Licence 1 - Semestre 1/TP/Matières/Programmation fonctionnelle",
+    "Licence 1 - Semestre 1/TP/Matières/Physique - Électricité I/Sommaires physique elec.md",
+    "Licence 1 - Semestre 1/TP/Matières/Physique - Électricité I",
+    "Licence 1 - Semestre 1/TP/Matières/Concepts et outils mathématiques/Sommaires Comcept et outils maths.md",
+    "Licence 1 - Semestre 1/TP/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
+    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/TP - 19-09-24.md",
+    "Licence 1 - Semestre 1/TP/Matières/Algorithmique et programmation impérative/03-10-24.ml",
+    "Licence 1 - Semestre 1/TP/Matières/Concepts et outils mathématiques",
+    "Licence 1 - Semestre 1/TP/Sommaires travaux pratique L1 S1.md",
+    "attachements/Pasted image 20240930142254.png",
+    "attachements/Pasted image 20240920151607.png",
+    "attachements/Pasted image 20240920151453.png",
+    "news.md",
+    "Licence 1 - Semestre 1/Sommaire L1 S1.md",
+    "Licence 1 - Semestre 1/TD/Matières/Sciences du numérique/Sommaires Sci du Num.md",
+    "Licence 1 - Semestre 1/TD/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
+    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Sommaires physique elec.md",
+    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys-1113 - 06-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Physique - Électricité I/Phys 20-09-24.md",
+    "Licence 1 - Semestre 1/TD/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md"
+  ]
+}
