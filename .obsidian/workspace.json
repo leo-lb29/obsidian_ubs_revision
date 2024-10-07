@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d0c707dcfa9b1dd5",
+        "id": "511b87742a6dbdf4",
         "type": "tabs",
         "children": [
           {
-            "id": "70b5d04d7951cd64",
+            "id": "dd7b520cde941b06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Rappel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "424ca8c21a1a3781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,14 +156,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cd9297026c78bc2c",
+  "active": "dd7b520cde941b06",
   "lastOpenFiles": [
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Rappel.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 1.md",
+    "README.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 2.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 3.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Cours complet/chapitre 2 complet.pptx",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Cours complet/chapitre 1 complet.pptx",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Cours complet/chapitre 3 complet.pptx",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Cours complet/chapitre 4 complet.pptx",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Cours complet",
-    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 3.md",
     "attachements/Pasted image 20241006160407.png",
     "attachements/Pasted image 20241006160400.png",
     "attachements/Pasted image 20241006160352.png",
@@ -195,13 +178,9 @@
     "attachements/Pasted image 20241006160007.png",
     "attachements/Pasted image 20241006155956.png",
     "attachements/Pasted image 20241006155927.png",
-    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 2.md",
-    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 1.md",
-    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Rappel.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Définition.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Sommaires physique elec.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Sommaires notes L1 S1.md",
-    "README.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Chapitre 4.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Programmation fonctionnelle/Sommaires prog fonctionnelle.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Sciences du numérique/Sommaires Sci du Num.md",
@@ -213,7 +192,6 @@
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Sciences du numérique",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Concepts et outils mathématiques",
-    "Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Anglais – Activités d’ouverture",
     "Licence 1 - Semestre 1/Sommaire L1 S1.md",
     "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Rappel.md",
     "obsidian_ubs_revision/Licence 1 - Semestre 1/Notes et Cartes mentales/Matières/Physique - Électricité I/Révision/Chapitre 4.md",
